@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luktriquet@gmail.com
+	name = Luk Triquet
